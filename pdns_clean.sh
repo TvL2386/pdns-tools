@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Script created on 20130816 by Tom van Leeuwen
+# github repo: https://github.com/TvL2386/pdns-tools
+# license: The MIT License (MIT) (https://raw.github.com/TvL2386/pdns-tools/master/LICENSE)
+# Please keep this information in the script
+
 # mysql settings
 PASS="secret"
 USER="root"
